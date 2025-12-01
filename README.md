@@ -25,7 +25,7 @@ HopeBot was built to be shared in a single link or QR code and be ready to help 
 - Fully open-source & forkable
 
 ## Live in one click
-https://YOUR-USERNAME.github.io/hopebot
+https://github.com/LHMisme420/Mental-Health-first-aid-bot/edit/main/README.md
 
 Just open. No install. No sign-up. Works on any phone or computer.
 
